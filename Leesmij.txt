@@ -1,0 +1,3 @@
+Dit is de blog van Robin Bartol
+Maak een database met de naam blog42b
+En gebruik de .sql file die erbij zit. (blog42b.sql)
